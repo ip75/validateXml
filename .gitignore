@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.pdb
+*.obj
+/.vscode
+.vs/
+.cproject
+.project
+bin/
+obj/
+logs/
+# External Libraries
+**/node_modules
+**/static
+*.user
+*.opencover.xml

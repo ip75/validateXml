@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "validateXml": {
+      "commandName": "Project",
+      "commandLineArgs": "-s D:\\TEMP\\xsd -x D:\\TEMP\\xml"
+    }
+  }
+}
